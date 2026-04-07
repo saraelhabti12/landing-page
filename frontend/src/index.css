@@ -1,0 +1,16 @@
+/* Global Resets */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: white;
+  color: #0f172a;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* App-wide styles are in App.css */
+@import "./App.css";
